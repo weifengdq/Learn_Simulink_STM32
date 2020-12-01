@@ -1,0 +1,63 @@
+    {'ApConCtl Control'                   }    {'APCONCTL.ApConCtlCtrl.1'            }    {'C:\MyProgram\Cadence\Cadence\Cade…'}
+    {'BackAnnotation Control'             }    {'PXLLITE.BackAnnotationPropPage17.…'}    {'C:\MyProgram\Cadence\Cadence\Cade…'}
+    {'CTreeView Control'                  }    {'CTREEVIEW.CTreeViewCtrl.1'          }    {'C:\WINDOWS\system32\dmocx.dll'      }
+    {'Capture TrueReuse Control'          }    {'TRUEREUSE.TrueReuseCtrl17.4.0'      }    {'C:\MyProgram\Cadence\Cadence\Cade…'}
+    {'CommonDialog Class'                 }    {'WIA.CommonDialog.1'                 }    {'C:\WINDOWS\System32\wiaaut.dll'     }
+    {'DeviceManager Class'                }    {'WIA.DeviceManager.1'                }    {'C:\WINDOWS\System32\wiaaut.dll'     }
+    {'HHCtrl Object'                      }    {'Internet.HHCtrl.1'                  }    {'C:\Windows\System32\hhctrl.ocx'     }
+    {'HHCtrl Object'                      }    {'Internet.HHCtrl.1'                  }    {'C:\Windows\System32\hhctrl.ocx'     }
+    {'HHCtrl Object'                      }    {'Internet.HHCtrl.1'                  }    {'C:\Windows\System32\hhctrl.ocx'     }
+    {'HtmlDlgHelper Class'                }    {'HtmlDlgHelper.HtmlDlgHelper.1'      }    {'C:\Windows\System32\mshtmled.dll'   }
+    {'LayoutReuse Control'                }    {'LAYOUTREUSE.LayoutReuseCtrl17.4.0'  }    {'C:\MyProgram\Cadence\Cadence\Cade…'}
+    {'ListPad class'                      }    {'ListPad.ListPad.1'                  }    {'C:\WINDOWS\system32\cic.dll'        }
+    {'MMC IconControl class'              }    {'MMC.IconControl.1'                  }    {'C:\WINDOWS\system32\mmcndmgr.dll'   }
+    {'MMCCtrl class'                      }    {'MMCCtrl.MMCCtrl.1'                  }    {'C:\WINDOWS\system32\cic.dll'        }
+    {'MS TV Video Control'                }    {'MSVidCtl.MSVidCtl.1'                }    {'C:\Windows\System32\msvidctl.dll'   }
+    {'Macromedia Flash Factory Object'    }    {'FlashFactory.FlashFactory.1'        }    {'C:\Windows\System32\Macromed\Flas…'}
+    {'MeetingJoinHelper Class'            }    {'CommunicatorMeetingJoinAx.JoinMan…'}    {'C:\Program Files (x86)\Microsoft …'}
+    {'Microsoft InkEdit Control'          }    {'InkEd.InkEdit.1'                    }    {'C:\WINDOWS\System32\Inked.dll'      }
+    {'Microsoft InkPicture Control'       }    {'msinkaut.InkPicture.1'              }    {'C:\Program Files\Common Files\Mic…'}
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.9'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.10'                     }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.11'                     }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.2'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.2.a'                    }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.3'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.3.a'                    }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.4'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.4.a'                    }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.5'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.6'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.7'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control (red…'}    {'MsRDP.MsRDP.8'                      }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.10'                 }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.11'                 }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.12'                 }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.2'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.3'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.4'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.5'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.6'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.7'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.8'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft RDP Client Control - ve…'}    {'MsTscAx.MsTscAx.9'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft Scriptlet Component'      }    {'ScriptBridge.ScriptBridge.1'        }    {'C:\Windows\System32\mshtml.dll'     }
+    {'Microsoft Shell Folder View Router' }    {'Shell.FolderView.1'                 }    {'C:\WINDOWS\system32\shell32.dll'    }
+    {'Microsoft Terminal Services Clien…'}    {'MsTscAx.MsTscAx.1'                  }    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'Microsoft Web Browser'              }    {'Shell.Explorer.2'                   }    {'C:\Windows\System32\ieframe.dll'    }
+    {'Mwsamp Control'                     }    {'MWSAMP.MwsampCtrl.1'                }    {'D:\Program Files\MATLAB\R2018b\to…'}
+    {'Mwsamp2 Control'                    }    {'MWSAMP.MwsampCtrl.2'                }    {'D:\Program Files\MATLAB\R2018b\to…'}
+    {'Netlist Control'                    }    {'PXLLITE.NetlistCtrl17.4.0'          }    {'C:\MyProgram\Cadence\Cadence\Cade…'}
+    {'OleInstall Class'                   }    {'OlePrn.OleInstall.1'                }    {'C:\WINDOWS\system32\oleprn.dll'     }
+    {'RDPViewer Class'                    }    {'Rdpvcomapi.RDPViewer.1'             }    {'C:\WINDOWS\system32\rdpviewerax.dll'}
+    {'Shockwave Flash Object'             }    {'ShockwaveFlash.ShockwaveFlash.11'   }    {'C:\Windows\System32\Macromed\Flas…'}
+    {'SysColorCtrl class'                 }    {'SysColorCtrl.SysColorCtrl.1'        }    {'C:\WINDOWS\system32\cic.dll'        }
+    {'System Monitor Control'             }    {'Sysmon.3'                           }    {'C:\WINDOWS\System32\sysmon.ocx'     }
+    {'Tabular Data Control'               }    {'TDCCtl.TDCCtl.1'                    }    {'C:\Windows\System32\tdc.ocx'        }
+    {'TaskSymbol Class'                   }    {'Control.TaskSymbol.1'               }    {'C:\WINDOWS\system32\mmcndmgr.dll'   }
+    {'UMRDPProtocolManager  Class'        }    {'RdpCoreTS.WRdsProtocolManager.1'    }    {'C:\WINDOWS\system32\rdpcorets.dll'  }
+    {'WangWangX Class'                    }    {'AliIMX.WangWangX.1'                 }    {'C:\Program Files (x86)\AliWangWan…'}
+    {'Windows Media Player'               }    {'WMPlayer.OCX.7'                     }    {'C:\WINDOWS\system32\wmp.dll'        }
+    {'Windows Store Remote Desktop Clie…'}    {'RemoteDesktopClient.RemoteDesktop…'}    {'C:\WINDOWS\system32\mstscax.dll'    }
+    {'WorkspaceBrokerAx Class'            }    {'WorkspaceBrokerAx.WorkspaceBroker…'}    {'C:\WINDOWS\system32\wkspbrokerAx.…'}
+    {'dwgviewrAcCtrl'                     }    {'Autodesk.AoemAcCtrl.16'             }    {'C:\Program Files\Common Files\Aut…'}
